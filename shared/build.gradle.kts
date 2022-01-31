@@ -21,7 +21,7 @@ kotlin {
             baseName = "shared"
         }
     }
-    val coroutinesVersion = "1.6.0"
+    val coroutinesVersion = "1.3.9-native-mt"
     val serializationVersion = "1.2.2"
     val ktorVersion = "1.6.5"
 
